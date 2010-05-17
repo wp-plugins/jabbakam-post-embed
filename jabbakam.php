@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Jabbakam embedder for Wordpress
-Plugin URI: http://{PLUGIN HOME}
+Plugin URI: http://wordpress.org/extend/plugins/jabbakam-post-embed/
 Description: Converts any Jabbakam shared video URLs into embedded Flowplayer instances.
 Version: 1.0
 Author: Jabbakam
